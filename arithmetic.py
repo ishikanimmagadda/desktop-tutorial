@@ -8,4 +8,5 @@ def arithmetic (num1, num2):
 
 arithmetic(5,6)
 arithmetic(8,2)
+arithmetic(4,5.5)
 
